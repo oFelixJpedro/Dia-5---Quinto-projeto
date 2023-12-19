@@ -1,0 +1,63 @@
+html{
+    background-color: #0D1A2D;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#center{
+    background-color: #15273F;
+    width: 300px;
+    height: 520px;
+    position: fixed;
+    left: 35%;
+    border-radius: 6%;
+    padding: 30px;
+    box-shadow: 10px 10px 5px;
+    color: #0C1729;
+}
+
+#imagem{
+    width: 100%;
+    border-radius: 6%;
+    position: relative;
+}    
+
+#valor{
+    position: relative;
+    top: -4.5%;
+    left: 6%;
+}
+
+#etherum{
+    position: relative;
+    top: 2.5%;
+}
+
+#clock{
+    position: relative;
+    left: 63%;
+    top: -11.5%;
+}
+
+#day3{
+    position: relative;
+    left: 70%;
+    top: -18.40%;
+}
+hr{
+    position: relative;
+    top: -17%;
+    border-color: #8198B7;
+}
+
+#profile{
+    width: 40px;
+    position: relative;
+    top: -14.75%;
+}
+
+#autor{
+    position: relative;
+    top: -24%;
+    left: 20%;
+}
+
+
